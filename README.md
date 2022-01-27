@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KNajarro
 - 👀 I’m interested in ... creating web apps and mobile apps
-- 🌱 I’m currently learning ... to develop apps with HTML, CSS, JavaScript and PHP
+- 🌱 I’m currently learning ... to develop apps with HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate on ... Some pretty stuff to help animals
 - 📫 How to reach me ... Twitter: @knajarro94
 
